@@ -9,3 +9,4 @@ How to Run
 3)	./matlab
 4)	Open the folder DynamicsHW_Kinematics
 5)	Run “R2000i”
+! You must have Robotics ToolBox (http://petercorke.com/wordpress/toolboxes/robotics-toolbox)
