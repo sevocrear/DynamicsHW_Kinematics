@@ -2,7 +2,7 @@
 Solving Direct and Inverse Kinematics problem for FANUCA R2000iC-165F
 -
 
-![alt text](https://sun9-21.userapi.com/c857616/v857616431/9301a/vC8patDfh08.jpg)
+![alt text](https://www.robots.com/images/robots/Fanuc/R-Series/FANUC_R-2000iC_165F_0002.png)
 
 How to Run
 -
